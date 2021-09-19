@@ -6,11 +6,11 @@ Clockify is a time management application that our client requires us to use. It
 
 ![send_slide_template](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week5/img/clockify_week5.png)
 
-## Screenshot of finalizing  presentation slides and presentation outlines
+## Screenshot of finalizing presentation slides and presentation outlines
 
 ![send_slide_template](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week5/img/send_slide_template.png)
 
-## Screenshot of giving  presentation suggestions
+## Screenshot of giving presentation suggestions
 
 ![presentation_suggestion](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week5/img/presentation_suggestion.png)
 
