@@ -12,5 +12,5 @@ Clockify is a time management application that our client requires us to use. It
 
 ## Eveidence of sharing report
 
-![share_report](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week5/img/share_report.png)
+![share_report](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week6/img/share_report.png)
 
