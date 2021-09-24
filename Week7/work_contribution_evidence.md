@@ -4,7 +4,7 @@
 
 Clockify is a time management application that our client requires us to use. It is used to track productivity, workload, and working hours.
 
-![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/cweek7_lockify.png)
+![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/week7_clockify.png)
 
 ## Eveidence of optimizing verifying email page
 
