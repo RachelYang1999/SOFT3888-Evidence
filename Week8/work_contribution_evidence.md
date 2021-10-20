@@ -1,26 +1,26 @@
-# **Eveidence of week 7 development**
+# Week 8 Contribution Evidence
 
-## Screenshot of Clockify
+## Clockify
 
 Clockify is a time management application that our client requires us to use. It is used to track productivity, workload, and working hours.
 
-![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/week7_clockify.png)
+The following image is the screenshot of my recorded Clockify activities during Week 8.
 
-## Screenshot of verifying email page
+![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week8/img/clockify.png)
 
-| After Optimization                                           | Before Optimization                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Optimized_Verify_Email_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Optimized_Verify_Email_Page.png) | ![Previous_Verify_Email_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Previous_Verify_Email_Page.png) |
+## BitBucket Issue
 
-## Screenshot of login page
+I used the BitBucket Issue section for laying out my task and upcoming implementations.
 
-| After Optimization                                           | Before Optimization                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Optimized_Login_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Optimized_Login_Page.png) | ![Previous_Login_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Previous_Login_Page.png) |
+The following image is the screenshot of my BitBucket Issue during Week 8.
 
-## Screenshot of registration page
+![issue](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week8/img/issue.png)
 
-| After Optimization                                           | Before Optimization                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Optimized_Signup_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Optimized_Signup_Page.png) | ![Previous_Signup_Page](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week7/img/Previous_Signup_Page.png) |
+## Group Chat
+
+I gave a suggestion about the backend testing by providing a snippet of Python-based backend unit test sample code which I wrote in previous project.
+
+The following image is the screenshot of the group chat history about sending the code snippet.
+
+![group_chat](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week8/img/group_chat.png)
 
