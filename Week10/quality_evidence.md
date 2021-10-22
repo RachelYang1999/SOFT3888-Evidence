@@ -16,7 +16,7 @@ The following images are pieces of evidence of pull requests.
 
 * Screenshot of the pull request review history
 
-  ![review_PR](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week9/img/review_PR.png)
+  ![review_PR](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week10/img/review_PR.png)
 
 
 ## Jenkins Pipeline Build History
