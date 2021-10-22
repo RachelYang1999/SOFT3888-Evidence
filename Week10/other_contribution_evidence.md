@@ -12,9 +12,9 @@ The following image is the screenshot of my recorded Clockify activities during 
 
 I used the BitBucket Issue section for laying out my task and upcoming implementations.
 
-The following images are the screenshot of my BitBucket Issues during Week 9.
+The following images are the screenshot of my BitBucket Issues during Week 10.
 
-![issue1](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week9/img/issue1.png)
+![issue1](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week10/img/issue1.png)
 
-![issue2](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week9/img/issue2.png)
+![issue2](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week10/img/issue2.png)
 
