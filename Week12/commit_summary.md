@@ -1,4 +1,4 @@
-# **Week 12 BitBucket History Summary
+# Week 12 BitBucket History Summary
 
 ## Pull Requests
 
