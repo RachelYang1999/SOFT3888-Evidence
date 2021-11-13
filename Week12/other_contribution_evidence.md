@@ -1,34 +1,44 @@
-# Week 11 Other Contribution Evidence
+# Week 12 Other Contribution Evidence
 
 ## Clockify
 
 Clockify is a time management application that our client requires us to use. It is used to track productivity, workload, and working hours.
 
-The following image is the screenshot of my recorded Clockify activities during Week 11.
+The following image is the screenshot of my recorded Clockify activities during Week 12.
 
-![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week11/img/clockify.png)
+![clockify](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/clockify.png)
 
 ## BitBucket Issue
 
 I used the BitBucket Issue section for laying out my task and upcoming implementations.
 
-The following images are the screenshot of my BitBucket Issues during Week 11.
+The following images are the screenshot of my BitBucket Issues during Week 12.
 
-* #47: UI Improvement - Color Palette
+* #57: Forgot Password
 
-  ![issue47](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week11/img/issue47.png)
+  ![issue57](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue57.png)
 
-* #48: UI Improvement - Navbar Icons
+* #58: UI Improvement
 
-  ![issue48](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week11/img/issue48.png)
+  ![issue58](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue58.png)
 
-* #49: UI Improvement - Font
+* #61: Bug: Sign In by passing email verification
 
-  ![issue49](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week11/img/issue49.png)
+  ![issue61](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue61.png)
 
-* #50: UI Improvement - Trip Box
+* #64: Bug: Find stops for trips returns results not in NSW
 
-  ![issue50](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week11/img/issue50.png)
+  ![issue64](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue64.png)
 
+* #67: Develop Contact Us Page
 
+  ![issue67](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue67.png)
+
+* #68: Change Password
+
+  ![issue68](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue68.png)
+
+* #69: Fix the issue that the trip name cannot be displayed properly
+
+  ![issue69](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/issue69.png)
 
