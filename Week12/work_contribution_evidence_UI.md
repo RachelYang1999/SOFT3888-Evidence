@@ -16,5 +16,5 @@ I fixed the issue that the trip name cannot be displayed properly, following ima
 
 | After Optimization                                           | Before Optimization                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![new_edit_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/new_edit_trip.png) | ![old_edit_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/old_edit_trip.png) |
+| ![new_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/new_trip.png) | ![old_edit_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/old_edit_trip.png) |
 
