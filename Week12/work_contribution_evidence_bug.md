@@ -15,3 +15,4 @@ I fixed the issue that the autocomplete result cannot be displayed properly, fol
 | After Optimization                                           | Before Optimization                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![new_auto](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/new_auto.png) | ![old_auto](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/old_auto.png) |
+
