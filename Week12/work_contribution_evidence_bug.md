@@ -1,8 +1,6 @@
-# **Week 12 Work Done Evidence**
+# **Week 12 Work Done Evidence** - Bug Fix
 
-## Bug Fix
-
-### Trip Edit Buttons
+## Trip Edit Buttons
 
 I fixed the issue that the trip name cannot be displayed properly, following images are screenshots of effects before and after optimization
 
@@ -10,7 +8,7 @@ I fixed the issue that the trip name cannot be displayed properly, following ima
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![new_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/new_trip.png) | ![old_edit_trip](https://github.com/RachelYang1999/SOFT3888-Evidence/blob/main/Week12/img/old_edit_trip.png) |
 
-### Autocomplete
+## Autocomplete
 
 I fixed the issue that the autocomplete result cannot be displayed properly, following images are screenshots of effects before and after optimization
 

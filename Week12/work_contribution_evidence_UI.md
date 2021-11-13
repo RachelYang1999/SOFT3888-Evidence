@@ -1,8 +1,6 @@
-# **Week 12 Work Done Evidence**
+# **Week 12 Work Done Evidence** - New UI
 
-## New User Interface
-
-### Dashboard
+## Dashboard
 
 Following images are screenshots of the dashboard page as the example to illustrate effects on the application before and after my work during week 12. **And all other pages that are not shown here have also been changed to the same new style.**
 
